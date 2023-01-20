@@ -1,12 +1,12 @@
-<h1 align="center"> Calendário Copa do Mundo 2022 </h1>
+<h1 align="center"> Portfólio interativo </h1>
 
 <p align="center">
-Projeto desenvolvido para o meu pai que ama futebol. Com esse calendário, ele não perderá o dia e os horários dos jogos da Copa do Mundo de 2022 no Catar.
+Projeto desenvolvido para que eu possa me apresentar brevemente, mostrar o meu currículo, e meus perfis no Github e LinkedIn, de maneira criativa!
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://0xguioliveira.github.io/portfolio/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -31,11 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+O meu Portfólio interativo foi desenvolvido para, basicamente, me apresentar, e mostrar o meu currículo e portfólio de uma maneira criativa. Espero que goste.
 
 ## :memo: Licença
 
