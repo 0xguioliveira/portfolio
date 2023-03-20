@@ -6,7 +6,7 @@ Projeto desenvolvido para que eu possa me apresentar brevemente, mostrar o meu c
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://0xguioliveira.github.io/portfolio/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://0xguioliveira.github.io/portfolio/" target="_blank">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
