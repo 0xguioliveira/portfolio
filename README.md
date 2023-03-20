@@ -32,6 +32,6 @@ O meu Portfólio interativo foi desenvolvido para, basicamente, me apresentar, e
 
 Esse projeto está sob a licença MIT.
 
----
+----
 
 Feito com ♥
