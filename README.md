@@ -6,8 +6,7 @@ Projeto desenvolvido para que eu possa me apresentar brevemente, mostrar o meu c
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://0xguioliveira.github.io/portfolio/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://0xguioliveira.github.io/portfolio/" target="_blank">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -16,10 +15,6 @@ Projeto desenvolvido para que eu possa me apresentar brevemente, mostrar o meu c
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
@@ -37,6 +32,6 @@ O meu Portfólio interativo foi desenvolvido para, basicamente, me apresentar, e
 
 Esse projeto está sob a licença MIT.
 
----
+----
 
 Feito com ♥
